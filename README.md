@@ -1,11 +1,6 @@
 # music-demo
 
 > A Vue.js project
-基于vue全家桶实现的仿qq音乐播放器
-其中包括首页（推荐页面）、歌手页、播放页
-使用了vux的ui框架实现轮播图功能简单快捷
-使用了vuex进行状态管理与数据交互
-
 
 ## Build Setup
 

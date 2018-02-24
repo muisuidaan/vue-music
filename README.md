@@ -1,3 +1,17 @@
+说明：
+使用的插件
+v-lazy  ---  vue图片懒加载
+v-router  ---  vue路由
+vuex  ---  vue数据管理
+
+
+axios  ---  抓取数据
+better-scroll  ---  优化移动端滚动事件
+vue-scroller ---  优化移动端滚动事件
+create-keyframe-animation  ---  利用js钩子实现动画，用js实现css3的效果
+js-base64  ---  解析base64歌词编码
+lyric-parser  ---  将歌词数据转换成被解析的类
+vux (swiper) ---  轮播图插件
 # music-demo
 
 > A Vue.js project
